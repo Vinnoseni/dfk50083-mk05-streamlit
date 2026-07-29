@@ -1,10 +1,10 @@
-Vinnoseni<br><br>
+VINNOSENI A/P THANNIMALAI<br><br>
 18DIT24F1156<br><br>
 DIT5E_SWG2<br><br>
 
 ## Application Description
 
-This application is developed using Streamlit. It contains a personal profile page and an interactive BMI Calculator.
+This application is developed using Streamlit.
 
 ## Features:
 
